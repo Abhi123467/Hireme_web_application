@@ -74,8 +74,8 @@ index – Homepage
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Praniiiii/HireMe.git
-cd HireMe
+git clone https://github.com/Abhi123467/Hireme_web_application.git
+cd Hireme_web_application
 ```
 
 ### 2. Create and activate virtual environment
